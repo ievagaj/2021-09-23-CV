@@ -1,0 +1,225 @@
+body {
+  background-image: url(background.jpg);
+  font-family: Georgia;
+}
+
+.foto{
+  background-color: transparent;
+  margin-right: 5px;
+  width: 250px;
+  height: 330px;
+  float: left;
+}
+
+.teksts{
+  background-color: transparent;
+  margin-top: 185px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  width: 300px;
+  height: 100px;
+  float: right;
+  text-align: right;
+  font-size: 20px;
+  line-height: 0,1;
+}
+
+.teksts p{
+  font-size: 20px;
+  color: grey;
+  line-height: 7px;
+}
+
+.ramis{
+  padding: 10px;
+  background-color: #F3F3F2;
+  margin: 70px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  width: 560px;
+  height: 330px;
+  float:left;
+}
+
+.ramis2{
+  float: right;
+  padding: 10px;
+  background-color: #F3F3F2;
+  margin: 70px;
+  margin-top: 360px;
+  margin-left: 0px;
+  width: 560px;
+  height: 200px;
+}
+
+.ramis3{
+  float: left;
+  padding: 10px;
+  background-color: #F3F3F2;
+  margin: 70px;
+  margin-top: 90px;
+  margin-right: 0px;
+  width: 560px;
+  height: 250px;
+}
+
+.ramis4{
+  float: right;
+  padding: 10px;
+  background-color: #F3F3F2;
+  margin: 70px;
+  margin-top: 30px;
+  margin-left: 0px;
+  width: 560px;
+  height: 220px;
+}
+
+.ramis5{
+  float: left;
+  padding: 10px;
+  background-color: #F3F3F2;
+  margin: 70px;
+  margin-top: 20px;
+  margin-right: 0px;
+  width: 560px;
+  height: 430px;
+}
+
+.ramis2 h2{
+  font-size: 30px;
+  margin: 10px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.ramis3 h2{
+  font-size: 30px;
+  margin: 10px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.ramis4 h2{
+  font-size: 30px;
+  margin: 10px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.ramis5 h2{
+  font-size: 30px;
+  margin: 10px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.gadi{
+  background-color: transparent;
+  margin: 10px;
+  margin-top: 0px;
+  margin-left: 170px;
+  width: 100px;
+  height: 100px;
+  float: left;
+  line-height: 10px;
+}
+
+.gadi2{
+  background-color: transparent;
+  margin: 10px;
+  margin-top: 0px;
+  margin-right: 0px;
+  width: 205px;
+  height: 130px;
+  float: left;
+  line-height: 10px;
+}
+
+.gadi3{
+  background-color: transparent;
+  margin: 10px;
+  margin-top: 0px;
+  margin-left: 105px;
+  width: 85px;
+  height: 120px;
+  float: left;
+  line-height: 10px;
+}
+
+.gadi4{
+  background-color: transparent;
+  margin: 10px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 35px;
+  width: 130px;
+  height: 70px;
+  float: left;
+  line-height: 10px;
+}
+
+.skola{
+  background-color: transparent;
+  margin-top: 0px;
+  margin-right: 70px;
+  margin-left: 0px;
+  width: 200px;
+  height: 100px;
+  line-height: 10px;
+  float: right;
+  text-align: justify;
+}
+
+.darbs{
+  background-color: transparent;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 10px;
+  width: 333px;
+  height: 130px;
+  float: right;
+  line-height: 10px;
+}
+
+.skola2{
+  background-color: transparent;
+  margin-top: 0px;
+  margin-right: 30px;
+  margin-left: 0px;
+  width: 320px;
+  height: 120px;
+  line-height: 10px;
+  float: right;
+}
+
+.valodas{
+  background-color: transparent;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   margin-left: 140px;
+   width: 260px;
+   height: 60px;
+   text-align: center;
+   line-height: 20px;
+}
+
+.prasmes{
+  background-color: transparent;
+  margin-top: 0px;
+  margin-left: 180px;
+  margin-bottom: 0px;
+  width: 200px;
+  height: 30px;
+  text-align: center;line-height: 20px;
+}
+
+.projekti{
+  background-color: transparent;
+  margin-top: 0px;
+  margin right: 20px;
+  margin-left: 0px;
+  width: 380px;
+  height: 70px;
+  line-height: 10px;
+  float: right;
+}
